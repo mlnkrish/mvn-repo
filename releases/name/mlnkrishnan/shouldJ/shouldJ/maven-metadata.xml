@@ -3,12 +3,13 @@
   <groupId>name.mlnkrishnan.shouldJ</groupId>
   <artifactId>shouldJ</artifactId>
   <versioning>
-    <release>1.5</release>
+    <release>1.6</release>
     <versions>
       <version>1.0</version>
       <version>1.1</version>
       <version>1.5</version>
+      <version>1.6</version>
     </versions>
-    <lastUpdated>20130508132416</lastUpdated>
+    <lastUpdated>20130509093738</lastUpdated>
   </versioning>
 </metadata>
